@@ -1,3 +1,3 @@
 # Git lecture
 
-This is Git.
+Git is a decentralized version control system.
